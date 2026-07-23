@@ -6,6 +6,10 @@
    font-family: "Roboto", sans-serif;
 }
 
+body {
+    background-color: #f3edff;
+}
+
 nav {
     height: 80px;
     display: flex;
@@ -52,7 +56,7 @@ li {
 }    
 
 #landing {
-    background-color: rgba(115, 66, 214, 0.1)
+    background-color: rgba(115, 66, 214, 0.2);
 }
 
 header {
