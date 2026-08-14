@@ -90,7 +90,6 @@ li {
     text-align: center;
     border: none;
     color: #7342d6;
-    display: none;
 }
 
 .menu__backdrop {
@@ -110,6 +109,7 @@ li {
 .menu--open .menu__backdrop {
     display: flex;
 }
+
 .menu__links {
     display: flex;
     flex-direction: column;
@@ -117,14 +117,14 @@ li {
 }
 
 .menu__list {
-    padding: 32px 0;
-    
+    padding: 32px 0;    
 }
 
 .menu__link {
     font-size: 40px;
     color: white;
 }
+
 .btn__menu--close {
     position: absolute;
     right: 20px;
