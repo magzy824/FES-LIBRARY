@@ -85,11 +85,12 @@ li {
 }    
 
 .btn__menu {
-    background-color: transparent;
-    font-size: 40px;
-    text-align: center;
-    border: none;
-    color: #7342d6;
+  background-color: transparent;
+  font-size: 40px;
+  text-align: center;
+  border: none;
+  color: #7342d6;
+  display: none;
 }
 
 .menu__backdrop {
